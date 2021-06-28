@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1624465564 source:d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"funciones.h"
+	"funciones2.h"
+
+1624304262 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20\rutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624404229 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20\funciones.h
+	<windows.h>
+
+1624379476 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20\funciones2.h
+
+1624465920 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624632885 source:d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20 git\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"funciones.h"
+	"funciones2.h"
+
+1624631712 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20 git\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624404230 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20 git\funciones.h
+	<windows.h>
+
+1624628961 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20 git\funciones2.h
+	<time.h>
+
+1624822506 source:c:\users\gabri\desktop\nueva carpeta\juegodados20\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"funciones.h"
+	"funciones2.h"
+
+1624750047 c:\users\gabri\desktop\nueva carpeta\juegodados20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624639936 c:\users\gabri\desktop\nueva carpeta\juegodados20\funciones.h
+	<windows.h>
+
+1624750954 c:\users\gabri\desktop\nueva carpeta\juegodados20\funciones2.h
+	<time.h>
+	"rlutil.h"
+
+1624837976 source:c:\users\julian\desktop\juegodados20\juegodados20\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"funciones.h"
+	"funciones2.h"
+
+1624750047 c:\users\julian\desktop\juegodados20\juegodados20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624639936 c:\users\julian\desktop\juegodados20\juegodados20\funciones.h
+	<windows.h>
+
+1624750954 c:\users\julian\desktop\juegodados20\juegodados20\funciones2.h
+	<time.h>
+	"rlutil.h"
+
