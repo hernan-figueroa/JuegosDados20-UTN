@@ -962,7 +962,7 @@ int main()
                         }
                     }
 
-                    puntajePrueba=puntosPrueba*contarNumerosRepetidos(vecPrueba, numGenPrueba, 6);
+                    puntajePrueba=puntosPrueba*contarNumerosRepetidos(vecPrueba, numGenPrueba, 5);
                     if(puntajePrueba==0)
                     {
                         ContCeroPuntosPrueba++;
@@ -986,7 +986,20 @@ int main()
 
                 }
             }
-
+            if(L==0)
+            {
+                strcpy(nombreMax,nombrePrueba);
+                puntMax=puntajeAcumuladoPrueba;
+                L=1;
+            }
+            else
+            {
+                if(puntajeAcumuladoPrueba>puntMax)
+                {
+                    puntMax=puntajeAcumuladoPrueba;
+                    strcpy(nombreMax,nombrePrueba);
+                }
+            }
             recuadro(20,1,24,2,15,0);
             locate(26,2);
             cout<<"MODO SIMULADO"<<endl;
