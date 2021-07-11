@@ -130,3 +130,66 @@
 	<time.h>
 	"rlutil.h"
 
+1625929685 source:d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"rlutil.h"
+	"funciones.h"
+	"funciones2.h"
+	"reglas.h"
+	"finDelPrograma.h"
+	"menuPrincipal.h"
+	"UnJugador.h"
+	"DosJugadores.h"
+	"mayorPuntuacion.h"
+	"modoSimulado.h"
+
+1624750047 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624639936 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\funciones.h
+	<windows.h>
+
+1624750954 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\funciones2.h
+	<time.h>
+	"rlutil.h"
+
+1625753612 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\reglas.h
+	"funcionesGraficas.h"
+
+1626010837 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\funcionesgraficas.h
+
+1626010577 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\findelprograma.h
+	"sonidos.h"
+
+1626010629 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\menuprincipal.h
+
+1626011198 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\unjugador.h
+	"funciones2.h"
+	"rlutil.h"
+	"funciones.h"
+
+1626011726 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\dosjugadores.h
+	"funciones2.h"
+	"rlutil.h"
+	"funciones.h"
+
+1626011973 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\mayorpuntuacion.h
+
+1626012141 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\modosimulado.h
+
+1626011198 d:\documentos\capacitacion\facultad\tsp\primer cuatrimestre\laboratorio1\tp final\juegodados20 (3)\juegodados20-utn\sonidos.h
+

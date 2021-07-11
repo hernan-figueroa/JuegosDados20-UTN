@@ -32,10 +32,37 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="UnJugador.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="dosJugadores.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="finDelPrograma.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="funciones.h" />
 		<Unit filename="funciones2.h" />
+		<Unit filename="funcionesGraficas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.cpp" />
+		<Unit filename="mayorPuntuacion.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menuPrincipal.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="modoSimulado.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="reglas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="rlutil.h" />
+		<Unit filename="sonidos.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
